@@ -1,0 +1,26 @@
+{
+  "name": "homework6",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack serve --mode development --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.2",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.0.0",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "firebase": "^8.6.8"
+  },
+  "description": ""
+}
